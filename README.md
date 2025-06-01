@@ -4,8 +4,8 @@ A modern React.js web application that allows users to search for any GitHub use
 
 ## 🚀 Live Demo
 
-👉 [Check it out here](https://your-live-demo-link.vercel.app/)  
-*(Replace with your actual deployed link)*
+👉 [Check it out here](https://github-profile-detective-ten.vercel.app/)  
+
 
 ---
 
