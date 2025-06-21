@@ -1,6 +1,6 @@
 # 🔍 GitHub Profile Detector
 
-A modern React.js web application that allows users to search for any GitHub user and view their public profile details — including repositories, followers, company, location, and social links. Styled with clean, responsive  .
+A modern React.js web application that allows users to search for any GitHub user and view their public profile details — including repositories, followers, location, and social links. Styled with clean, responsive  .
 
 ## 🚀 Live Demo
 
